@@ -4,7 +4,7 @@
 ## Projects
 Incoming Project(s):
 <ul>
-  <li> 🌊 Project ReefDirect – Design a full-stack web application to provide researchers, students, and environmental enthusiasts with real-time coral reef data. Users will be able to access, analyze, and visualize key reef health metrics such as temperature, pH, coral cover, and bleaching rates. The platform will support downloading datasets and generating visual analytics to assist in research, trend analysis, and environmental monitoring.</li>
+  <li> To be filled.</li>
 </ul>
 
 Past Project(s):
