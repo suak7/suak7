@@ -4,7 +4,7 @@
 ## Projects
 Incoming Project(s):
 <ul>
-  <li> To be filled.</li>
+  <li> To be updated.</li>
 </ul>
 
 Past Project(s):
