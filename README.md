@@ -1,17 +1,16 @@
 # Hi, I am suak7
-<p>I am a full-stack developer in training, crafting services mainly using Spring Boot, React, and PostgreSQL. I have foundational knowledge on operating systems and data structures and algorithms. Although being a full-stack developer is already exhilarating, I hope to narrow down my career niche to machine learning, high-performance computing, or systems programming. I am aware each area is a vast field on its own; I will deeply explore my interests that academically and emotionally fulfill me.</p>
+<p>I am currently a freshman Computer Science student at University of Florida, thrilled to learn about machine learning and software development. I enjoy building projects from scratch—from neural networks that classify scientific data to full-stack web applications. My recent work includes a PyTorch classifier achieving 95% accuracy on spectral data. I particularly enjoy low-level programming, reading about the inner workings of operating systems, and writing some assembly. I hope to write my own programming language some day. Apart from that, I love reading horror novels and watching science fiction shows!</p>
 
 ## Projects
 
 <ul>
-  <li> 📊 Project ESR Signal Classifier – Developed a machine learning-based classifier for electron spin resonance (ESR) signals. The aim was to automatically analyze and categorize ESR spectra, enabling faster and more accurate interpretation of experimental data. The system identifies key features in ESR signals, distinguishes between different signal types, and provides a robust tool for research in chemistry, physics, and material science.</li>
+  <li>Project ESR Spectrum Analyzer – A PyTorch-based classifier for Electron Spin Resonance (ESR) spectroscopy signals. Built a 3-layer feedforward neural network that distinguishes between three spectral patterns with 95% accuracy. Features custom NumPy signal generation with Gaussian peaks, automated data loading, and performance visualization.</li>
 </ul>
 
 ## Skills
 <ul>
-  <li>Python, Java, HTML, CSS, JavaScript</li>
-  <li>PyTorch, Flask</li>
-  <li>Git, GitHub, Figma</li>
-  <li>NumPy, Matplotlib, SQLite</li>
-  <li>Postman</li>
+  <li>Programming Languages: Python, JavaScript, HTML, CSS</li>
+  <li>Frameworks & Libraries: PyTorch, Flask, NumPy, Matplotlib, SQLite</li>
+  <li>Developer Tools: Git, GitHub, VSCode, Figma</li>
+  <li>Operating Systems: Process/thread management, CPU scheduling, memory management, file systems, concurrency</li>
 </ul>
