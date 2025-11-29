@@ -14,4 +14,4 @@
 * **Programming Languages:** Python, JavaScript (Node.js), HTML, CSS
 * **Frameworks & Libraries:** PyTorch, NumPy, Matplotlib, Chart.js, Transformers.js
 * **Databases:** PostgreSQL (Prisma ORM), SQLite, Redis
-* **Developer Tools:** Git, GitHub, VSCode, Figma
+* **Developer Tools:** Git, GitHub
